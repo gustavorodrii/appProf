@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061975495730",
+    "project_id": "smartclass-35336",
+    "storage_bucket": "smartclass-35336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061975495730:android:eab69435ccd617046e182b",
+        "android_client_info": {
+          "package_name": "com.example.smartclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjiTF9H_Z_yaMf0vU2wo6_Zdavz5qDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
